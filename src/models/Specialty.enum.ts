@@ -1,0 +1,15 @@
+export enum Specialty {
+	Excavation = 'Excavation',
+	Construction = 'Construction',
+	Plumbing = 'Plumbing',
+	Electrical = 'Electrical',
+	HVAC = 'HVAC',
+	Welding = 'Welding',
+	Painting = 'Painting',
+	Masonry = 'Masonry',
+	Landscaping = 'Landscaping',
+	Roofing = 'Roofing',
+	Concrete = 'Concrete',
+	Carpentry = 'Carpentry',
+	General = 'General',
+}

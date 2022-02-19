@@ -1,0 +1,156 @@
+[
+	{
+		"id": "comp-1",
+		"companyName": "arab contractors",
+		"specialty": "General",
+		"city": "cairo",
+		"logo": "https://picsum.photos/150"
+	},
+	{
+		"id": "comp-2",
+		"companyName": "Orascom",
+		"specialty": "General",
+		"city": "cairo",
+		"logo": "https://picsum.photos/150"
+	},
+	{
+		"id": "comp-3",
+		"companyName": "Beahan, Rowe and Considine",
+		"specialty": "Excavation",
+		"logo": "https://picsum.photos/150",
+		"city": "Berlin"
+	},
+	{
+		"id": "comp-4",
+		"companyName": "Schneider Inc",
+		"specialty": "Electrical",
+		"logo": "https://picsum.photos/150",
+		"city": "Hamburg"
+	},
+	{
+		"id": "comp-5",
+		"companyName": "Skiles - Feeney",
+		"specialty": "Plumbing",
+		"logo": "https://picsum.photos/150",
+		"city": "Munich"
+	},
+	{
+		"id": "comp-6",
+		"companyName": "Bergnaum, Orn and Murray",
+		"specialty": "Construction",
+		"logo": "https://picsum.photos/150",
+		"city": "Cologne"
+	},
+	{
+		"id": "comp-7",
+		"companyName": "Moen Inc",
+		"specialty": "HVAC",
+		"logo": "https://picsum.photos/150",
+		"city": "Frankfurt"
+	},
+	{
+		"id": "comp-8",
+		"companyName": "Schiller - Collier",
+		"specialty": "Welding",
+		"logo": "https://picsum.photos/150",
+		"city": "Bremen"
+	},
+	{
+		"id": "comp-9",
+		"companyName": "Jakubowski Group",
+		"specialty": "Painting",
+		"logo": "https://picsum.photos/150",
+		"city": "Düsseldorf"
+	},
+	{
+		"id": "comp-10",
+		"companyName": "Torphy - Mante",
+		"specialty": "Masonry",
+		"logo": "https://picsum.photos/150",
+		"city": "Stuttgart"
+	},
+	{
+		"id": "comp-11",
+		"companyName": "Hermiston and Sons",
+		"specialty": "Carpentry",
+		"logo": "https://picsum.photos/150",
+		"city": "Leipzig"
+	},
+	{
+		"id": "comp-12",
+		"companyName": "Bartell, Kerluke and Klein",
+		"specialty": "Roofing",
+		"logo": "https://picsum.photos/150",
+		"city": "Dortmund"
+	},
+	{
+		"id": "comp-13",
+		"companyName": "Gleason - Anderson",
+		"specialty": "Concrete",
+		"logo": "https://picsum.photos/150",
+		"city": "Essen"
+	},
+	{
+		"id": "comp-14",
+		"companyName": "Quigley, Crona and Ondricka",
+		"specialty": "Excavation",
+		"logo": "https://picsum.photos/150",
+		"city": "Dresden"
+	},
+	{
+		"id": "comp-15",
+		"companyName": "Pollich - Abernathy",
+		"specialty": "Construction",
+		"logo": "https://picsum.photos/150",
+		"city": "Hannover"
+	},
+	{
+		"id": "comp-16",
+		"companyName": "Lind, Larkin and Waelchi",
+		"specialty": "Plumbing",
+		"logo": "https://picsum.photos/150",
+		"city": "Nuremberg"
+	},
+	{
+		"id": "comp-17",
+		"companyName": "Langosh - O'Hara",
+		"specialty": "Electrical",
+		"logo": "https://picsum.photos/150",
+		"city": "Duisburg"
+	},
+	{
+		"id": "comp-18",
+		"companyName": "Kemmer - Stracke",
+		"specialty": "HVAC",
+		"logo": "https://picsum.photos/150",
+		"city": "Bochum"
+	},
+	{
+		"id": "comp-19",
+		"companyName": "Auer Inc",
+		"specialty": "Welding",
+		"logo": "https://picsum.photos/150",
+		"city": "Wuppertal"
+	},
+	{
+		"id": "comp-20",
+		"companyName": "Kuphal - Nicolas",
+		"specialty": "Painting",
+		"logo": "https://picsum.photos/150",
+		"city": "Bielefeld"
+	},
+	{
+		"id": "comp-21",
+		"companyName": "Balistreri Group",
+		"specialty": "Masonry",
+		"logo": "https://picsum.photos/150",
+		"city": "Bonn"
+	},
+	{
+		"id": "comp-22",
+		"companyName": "Ankunding, Zieme and Konopelski",
+		"specialty": "Landscaping",
+		"logo": "https://picsum.photos/150",
+		"city": "Karlsruhe"
+	}
+]
